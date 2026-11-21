@@ -3,7 +3,7 @@
 
 import { useEffect, useRef } from 'react'
 
-const MAIN_WEBSITE_URL = 'https://probeee.space'
+const MAIN_WEBSITE_URL = 'https://probet13.com/user/home.php'
 const IMAGE_URL = '/images/banner.jpeg'
 const REDIRECT_DELAY_MS = 1000
 
@@ -49,7 +49,7 @@ export default function Page() {
         </button>
 
         <p className="text-xs font-medium tracking-widest text-gray-500">
-          Continue to our main website
+          Continue to our main website.
         </p>
 
       </div>
